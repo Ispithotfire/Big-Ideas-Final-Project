@@ -12,4 +12,4 @@ City Of Pittsburgh Parks Dataset: https://data.wprdc.org/dataset/parks/resource/
 
 ---------------------------
 
-This repository is for the CS 0010 Final Project, which is to use data sets to determine what the best neighborhood in the City of Pittsburgh is
+This repository is for the CMPINF 0010 Final Project, which is to use data sets to determine what the best neighborhood in the City of Pittsburgh is
