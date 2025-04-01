@@ -3,6 +3,7 @@
 Group Members
 
 Dylan Lower - djl122@pitt.edu
+Christopher Yang - gey20@pitt.edu
 
 ---------------------------
 Links
