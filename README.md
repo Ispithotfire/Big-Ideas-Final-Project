@@ -15,6 +15,8 @@ City Of Pittsburgh Parks Dataset: https://data.wprdc.org/dataset/parks/resource/
 
 City of Pittsburgh Facilities: https://data.wprdc.org/dataset/city-of-pittsburgh-facilities/resource/fbb50b02-2879-47cd-abea-ae697ec05170
 
+Fire Incidents in City of Pittsburgh Dataset: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
+
 ---------------------------
 
 This repository is for the CMPINF 0010 Final Project, which is to use data sets to determine what the best neighborhood in the City of Pittsburgh is
