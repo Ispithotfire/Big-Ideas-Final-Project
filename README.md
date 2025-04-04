@@ -19,4 +19,4 @@ Fire Incidents in City of Pittsburgh Dataset: https://data.wprdc.org/dataset/fir
 
 ---------------------------
 
-This repository is for the CMPINF 0010 Final Project, which is to use data sets to determine what the best neighborhood in the City of Pittsburgh is based on the Quality of Life of each neighborhood, by measuring the amount of parks, city facilities buildings, and McDonalds in each neighborhood along with the amount of reported fire incidents for each neighborhood.
+This repository is for the CMPINF 0010 Final Project, which is to use data sets to determine what the best neighborhood in the City of Pittsburgh is based on the Quality of Life of each neighborhood, by measuring the amount of parks, city facilities buildings, and McDonalds in each neighborhood along with the amount and serverity of reported fire incidents for each neighborhood.
