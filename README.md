@@ -1,6 +1,6 @@
 # THE UNDERACHIEVERS
 ---------------------------
-Group Members
+Group 3 Members
 
 Dylan Lower - djl122@pitt.edu
 
