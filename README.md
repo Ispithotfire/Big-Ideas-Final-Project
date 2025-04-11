@@ -8,6 +8,8 @@ Christopher Yang - gey20@pitt.edu
 
 Aidan Patterson - atp75@pitt.edu
 
+Owen Frank - omf23@pitt.edu
+
 ---------------------------
 Links
 
@@ -16,6 +18,8 @@ City Of Pittsburgh Parks Dataset: https://data.wprdc.org/dataset/parks/resource/
 City of Pittsburgh Facilities: https://data.wprdc.org/dataset/city-of-pittsburgh-facilities/resource/fbb50b02-2879-47cd-abea-ae697ec05170
 
 Fire Incidents in City of Pittsburgh Dataset: https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
+
+Monthly Criminal Activity Dataset for 2024-2025: https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resource/bd41992a-987a-4cca-8798-fbe1cd946b07
 
 ---------------------------
 
