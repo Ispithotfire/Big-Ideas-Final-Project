@@ -1,1 +1,17 @@
 
+import pandas as pd
+
+read = pd.read_csv("https://data.wprdc.org/datastore/dump/fa329e3d-89ff-4708-8ddf-81bfedcad11d")
+
+grouped = read.groupby(['neighborhood', 'type']).size().reset_index(name='Count')
+
+total_per_neighborhood = grouped.groupby('neighborhood')['Count'].sum().reset_index()
+
+sorted_neighborhoods = total_per_neighborhood.sort_values(by='Count', ascending=False)
+
+# Display the top results with Traffic Island/Median
+print(sorted_neighborhoods.head(10))
+
+first_10 = sorted_neighborhoods.head(10)
+
+first_10['Count'].hist()
